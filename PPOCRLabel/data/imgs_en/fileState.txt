@@ -1,0 +1,4 @@
+/home/lindsay/Downloads/54932370f6ffb9c3bbfebb691a9071ea/PaddleOCR-main/PPOCRLabel/data/imgs_en/model_prod_flow_en.png	1
+/home/lindsay/Downloads/54932370f6ffb9c3bbfebb691a9071ea/PaddleOCR-main/PPOCRLabel/data/imgs_en/254.jpg	1
+/home/lindsay/Downloads/54932370f6ffb9c3bbfebb691a9071ea/PaddleOCR-main/PPOCRLabel/data/imgs_en/img623.jpg	1
+/home/lindsay/Downloads/54932370f6ffb9c3bbfebb691a9071ea/PaddleOCR-main/PPOCRLabel/data/imgs_en/img_10.jpg	1

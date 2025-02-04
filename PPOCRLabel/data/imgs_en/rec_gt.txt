@@ -1,0 +1,49 @@
+crop_img/model_prod_flow_en_crop_0.jpg	Paddle.jit.saveO
+crop_img/model_prod_flow_en_crop_1.jpg	 best_accuracy.pdopt
+crop_img/model_prod_flow_en_crop_2.jpg	Model
+crop_img/model_prod_flow_en_crop_3.jpg	Model
+crop_img/model_prod_flow_en_crop_4.jpg	inference.pdmodel
+crop_img/model_prod_flow_en_crop_5.jpg	Model
+crop_img/model_prod_flow_en_crop_6.jpg	ch det mv3
+crop_img/model_prod_flow_en_crop_7.jpg	 best_accuracy.pdparams
+crop_img/model_prod_flow_en_crop_8.jpg	training
+crop_img/model_prod_flow_en_crop_9.jpg	transform
+crop_img/model_prod_flow_en_crop_10.jpg	inference.pdiparams
+crop_img/model_prod_flow_en_crop_11.jpg	optimization
+crop_img/model_prod_flow_en_crop_12.jpg	db_opt.nb
+crop_img/model_prod_flow_en_crop_13.jpg	 best accuracy.states
+crop_img/254_crop_0.jpg	PHO CAPITAL
+crop_img/254_crop_1.jpg	107State Street
+crop_img/254_crop_2.jpg	MontpelierVermont
+crop_img/254_crop_3.jpg	8022256183
+crop_img/254_crop_4.jpg	REG
+crop_img/254_crop_5.jpg	07-24-201706:59PM
+crop_img/254_crop_6.jpg	045555
+crop_img/254_crop_7.jpg	CT1
+crop_img/254_crop_8.jpg	T1
+crop_img/254_crop_9.jpg	$7.95
+crop_img/254_crop_10.jpg	1F00D
+crop_img/254_crop_11.jpg	T1
+crop_img/254_crop_12.jpg	$3.95
+crop_img/254_crop_13.jpg	1F00D
+crop_img/254_crop_14.jpg	T1
+crop_img/254_crop_15.jpg	$9.50
+crop_img/254_crop_16.jpg	1F00D
+crop_img/254_crop_17.jpg	3No
+crop_img/254_crop_18.jpg	$21.40
+crop_img/254_crop_19.jpg	TA1
+crop_img/254_crop_20.jpg	$1.92
+crop_img/254_crop_21.jpg	TX1
+crop_img/254_crop_22.jpg	$23.32
+crop_img/254_crop_23.jpg	TL
+crop_img/254_crop_24.jpg	$23.32
+crop_img/254_crop_25.jpg	CASH
+crop_img/254_crop_26.jpg	THANKYOU
+crop_img/254_crop_27.jpg	FOR YOUR BUSINESS
+crop_img/img623_crop_0.jpg	训
+crop_img/img623_crop_1.jpg	A
+crop_img/img623_crop_2.jpg	RIBS
+crop_img/img623_crop_3.jpg	www.flavoursofiloilo.blogspot.com
+crop_img/img_10_crop_0.jpg	Please lower your volume
+crop_img/img_10_crop_1.jpg	when youpassby
+crop_img/img_10_crop_2.jpg	residential areas
